@@ -1,2 +1,2 @@
-rootProject.name = "Task_cakendar"
+rootProject.name = "Task_calendar"
 
